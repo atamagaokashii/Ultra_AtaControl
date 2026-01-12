@@ -261,7 +261,7 @@ Misc_Button_02,Loot Chests,This button does NOTHING
 Misc_Button_03,NOTSET,#command
 Misc_Button_04,Log Off,#echo /mt logout
 Misc_Button_05,Refresh Profiles,#echo /vt refresh
-Misc_Button_06,Reload Meta (Single Client),/vt meta load Unlimited_IBControl
-Misc_Button_07,Reload Meta (All Clients),#echo /vt meta load Unlimited_IBControl
+Misc_Button_06,Reload Meta (Single Client),/vt meta load Ultra_AtaControl
+Misc_Button_07,Reload Meta (All Clients),#echo /vt meta load Ultra_AtaControl
 Misc_Button_08,NOTSET,#command
 Misc_Button_09,Version 1.9.9b.5 Unlimited,This button does NOTHING
